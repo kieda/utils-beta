@@ -1,4 +1,4 @@
-package com.zkieda.utils.tostring;
+package org.zkieda.util.string.tostring;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

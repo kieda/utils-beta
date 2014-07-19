@@ -17,4 +17,7 @@
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
+  <scm>
+  	<url>https://github.com/kieda/zkieda-utils-beta.git</url>
+  </scm>
 </project>
